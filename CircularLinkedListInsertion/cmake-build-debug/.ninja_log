@@ -1,0 +1,25 @@
+# ninja log v5
+23	5723	1664643552644134140	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+5742	6227	1664643553152124984	CircularLinkedListInsertion	8284f57ddb9dd3d5
+3	1429	1664646237899952234	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+1429	1809	1664646238279972774	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	286	1664646266701584726	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+286	388	1664646266801590642	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	286	1664646303035831909	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+287	381	1664646303127837827	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	326	1664646335305963994	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+327	417	1664646335393969956	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	281	1664646347458793733	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+281	371	1664646347550800065	CircularLinkedListInsertion	8284f57ddb9dd3d5
+0	283	1664646361063737533	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+283	371	1664646361147743408	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	282	1664646372524543705	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+283	370	1664646372612549931	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	278	1664646407703072472	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+278	367	1664646407791078888	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	281	1664646422832181442	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+281	368	1664646422920187924	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	299	1664646750854989109	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+299	389	1664646750942987229	CircularLinkedListInsertion	8284f57ddb9dd3d5
+1	296	1664646767570681745	CMakeFiles/CircularLinkedListInsertion.dir/main.cpp.o	93365b8388ffe9c
+296	389	1664646767662680303	CircularLinkedListInsertion	8284f57ddb9dd3d5
